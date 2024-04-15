@@ -1,6 +1,6 @@
 # ua1183pf_hw
 
-
+-
 - lhalam - Liubomyr Halamaha. 
 - Vaniawl
 - nosokvnosok
@@ -15,3 +15,4 @@
 - BirdyNel
 - ilyaparnikov
 - nikvitkaua - Mykyta Paziuka
+-sanya1213 - Oher Oleksandr
